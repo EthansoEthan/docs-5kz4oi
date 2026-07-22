@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ou1ums.biggamingwin.online/sitemap.xml
